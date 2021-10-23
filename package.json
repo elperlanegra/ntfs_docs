@@ -1,0 +1,31 @@
+{
+  "name": "epic-game",
+  "version": "1.0.0",
+  "description": "1. setup smart contracts test * See instructions - [Hardhat](https://hardhat.org/tutorial/setting-up-the-environment.html)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elperlanegra/ntfs_docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elperlanegra/ntfs_docs/issues"
+  },
+  "homepage": "https://github.com/elperlanegra/ntfs_docs#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.1",
+    "hardhat": "^2.6.7"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  }
+}
