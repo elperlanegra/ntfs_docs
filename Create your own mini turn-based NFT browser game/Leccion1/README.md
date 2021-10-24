@@ -32,5 +32,5 @@ npx hardhat run scripts/deploy.js --network rinkeby
 * Metamask ApiKey - [Metamask Api Key](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key) 
 
 ## test our nft
-* NFTS Marketplace - [Rarible](https://rinkeby.rarible.com/) 
+* NFTS Marketplace and put on sale - [Rarible](https://rinkeby.rarible.com/) - [Opensean](https://opensea.io/) 
 * Etherscan check our deploy smart contract - [Etherscan](https://rinkeby.etherscan.io/) 
